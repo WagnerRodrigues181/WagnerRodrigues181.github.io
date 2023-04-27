@@ -7,12 +7,20 @@ h1{
     background-color: #415a77;
     display: inline;
     border-radius: 25px;
+    color: #e0e1dd;
 }
 
 h2 , h3 {
 background-color: #778da9;
+color: #1b263b;
 
 }
+
+h3{
+font-size: x-large;
+}
+
+
 /* perfil */
 .perfil{
     height: 400px;
@@ -31,16 +39,63 @@ background-color: #778da9;
     border-width: 30px;
     display: inline-block;
     margin-top: 0px;
+    color: #e0e1dd;
+}
+
+.albino{
+font-size: 50px;
+color: #e0e1dd;
+background-color: #415a77;
+border-radius: 20px;
+border-width: 30px;
+display: inline-block;
+margin-top: 0px;
+text-decoration: none;
+margin-top: 20px;
+}
+
+.minhafoto{
+font-size: 50px;
+color: #e0e1dd;
+background-color: #415a77;
+border-radius: 20px;
+border-width: 30px;
+margin-top: 0px;
+text-decoration: none;
+margin-top: 30px;
+}
+
+#secao{
+font-size: 30px;
+color: #e0e1dd;
+background-color: #415a77;
+border-radius: 20px;
+margin-top: 10px;
+text-align: center;
+text-decoration: none;
+display: block;
+}
+
+.clarinha{
+height: 300px;
+margin-top: 30px;
+
     
 }
 
-.gato-albino{
-
+#desc-clarinha {
+    font-size: 50px;
+    color: #e0e1dd;
+    background-color: #415a77;
+    border-radius: 20px;
+    border-width: 30px;
+    display: inline;
+    text-decoration: none;
+    margin-top: 20px;
 
 }
 
-.minha-foto{
-
+#lorem{
+font-size: 80px;
 
 }
-
